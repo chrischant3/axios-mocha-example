@@ -1,0 +1,16 @@
+{
+  "name": "axios_mocha_test",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "mocha",
+    "test:testrail-results": "mocha --opts mocha-testrail.opts"
+  },
+  "dependencies": {
+    "axios": "^0.17.1",
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  },
+  "devDependencies": {
+    "mocha-testrail-reporter": "^1.0.12"
+  }
+}

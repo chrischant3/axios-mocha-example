@@ -1,0 +1,9 @@
+--recursive
+--reporter mocha-testrail-reporter
+--reporter-options domain=instance.testrail.net,username=email@domina.com,password=awesomePassword,projectId=1,suiteId=1
+
+
+
+
+
+
